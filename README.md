@@ -1,6 +1,6 @@
 # Olá sou Lucas Andrade 
 
-- 🔭 Desenvolvedor Full-Stack<br
+- 🔭 Desenvolvedor Full-Stack
 - 🌱 Estudando Typescript
 - 😄 Ele / Dele
 
